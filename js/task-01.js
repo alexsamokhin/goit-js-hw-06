@@ -1,6 +1,3 @@
-// const categories = document.querySelector('#categories')
-// console.log(`Number of categories: ${categories.children.length}`)
-
 const itemList = document.querySelectorAll('.item')
 console.log(`Number of categories: ${itemList.length}`)
 for (let i = 0; i < itemList.length; i+=1) {
